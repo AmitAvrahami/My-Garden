@@ -1,6 +1,6 @@
-# Magical Garden
+# My Garden
 
-In **"Magical Garden"**, you find yourself as a meticulous gardener managing a beautiful garden. The garden features three types of plants: fruit trees, ornamental trees, and flowers. Each type of plant has its own unique behavior, and you need to care for each one differently.
+In **"My Garden"**, you find yourself as a meticulous gardener managing a beautiful garden. The garden features three types of plants: fruit trees, ornamental trees, and flowers. Each type of plant has its own unique behavior, and you need to care for each one differently.
 
 ## Main Features:
 - **Watering**: Water trees and flowers to keep them healthy.
