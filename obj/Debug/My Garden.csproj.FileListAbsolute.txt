@@ -1,0 +1,23 @@
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\bin\Debug\My Garden.exe.config
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\bin\Debug\My Garden.exe
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\bin\Debug\My Garden.pdb
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My_Garden.Form1.resources
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My_Garden.Properties.Resources.resources
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My Garden.csproj.GenerateResource.cache
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My Garden.csproj.CoreCompileInputs.cache
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My Garden.exe
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My Garden.pdb
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My_Garden.start_game.resources
+C:\Users\amitx\source\repos\My garden 1\My Garden\My Garden\obj\Debug\My Garden.csproj.AssemblyReference.cache
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\bin\Debug\My Garden.exe.config
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\bin\Debug\My Garden.exe
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\bin\Debug\My Garden.pdb
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My Garden.csproj.AssemblyReference.cache
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My_Garden.Form1.resources
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My_Garden.Properties.Resources.resources
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My_Garden.start_game.resources
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My Garden.csproj.GenerateResource.cache
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My Garden.csproj.CoreCompileInputs.cache
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My Garden.exe
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My Garden.pdb
+C:\Users\amitx\Desktop\עמית קבצים\לימודים\מונחה עצמים\פרויקט הגינה שלי\מעודכן\My Garden\My Garden\obj\Debug\My Garden.csproj.SuggestedBindingRedirects.cache
